@@ -1,6 +1,6 @@
 ## About The Project
 Simple Simon Says Game, created with vintage aesthetic and developed using jQuery for speed.
-![ScreenShot](https://raw.github.com/marinaadlc/jQuery-simon-says/master/screenshot/screenshot1.png)
+![ScreenShot](https://github.com/marinaadlc/jQuery-simon-says/blob/master/screenshot/Screenshot1.PNG)
 
 
 ## Installation
